@@ -1,0 +1,8 @@
+{
+  "name": "gourmet-select",
+  "version": "1.0.0", 
+  "scripts": {
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+  }
+}
